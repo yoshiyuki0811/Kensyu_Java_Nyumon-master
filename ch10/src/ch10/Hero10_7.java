@@ -15,6 +15,6 @@ public class Hero10_7 {
 	}
 
 	public void run() {
-		System.out.println(this.name + "は逃げ出した！！")
+		System.out.println(this.name + "は逃げ出した！！");
 	}
 }

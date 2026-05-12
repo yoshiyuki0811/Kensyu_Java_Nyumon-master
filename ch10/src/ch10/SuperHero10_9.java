@@ -26,7 +26,7 @@ public class SuperHero10_9 extends Hero10_1 {
 		
 		if(this.flying) {
 			
-			super.attack(null);
+			super.attack(m);
 		}
 	}
 
